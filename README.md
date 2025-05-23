@@ -12,4 +12,8 @@
 - Explore float behavior through a dynamic, user-controlled visual example.
 - Responsive text interaction demonstrating float wrapping and clearing.
 
+  ### Preview
+  ![image](https://github.com/user-attachments/assets/eb77db08-cc4b-492b-89b0-15c837c1f277)
+
+
 
